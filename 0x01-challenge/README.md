@@ -1,6 +1,6 @@
 # Fix My Code Challenge - Challenge 0x01
 
-![](https://media1.tenor.com/m/tt7KnU6c2-4AAAAd/bug-fix-bug.gif)
+!["Alt Image"]('https://media1.tenor.com/m/tt7KnU6c2-4AAAAd/bug-fix-bug.gif')
 
 ## Introduction
 `Fix my code` is a project where we dive into an existing code base and correct it. This optional project provided an excellent opportunity for me to improve my debugging skills by fixing and enhancing existing code bases.
