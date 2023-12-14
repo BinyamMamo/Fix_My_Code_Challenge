@@ -1,7 +1,7 @@
 # Fix My Code Challenge - Challenge 0x01
 
 <p>
-<img src="https://media1.tenor.com/m/tt7KnU6c2-4AAAAd/bug-fix-bug.gif">
+<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8">
 </p>
 
 ## Introduction
