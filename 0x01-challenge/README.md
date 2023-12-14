@@ -1,7 +1,7 @@
 # Fix My Code Challenge - Challenge 0x01
 
 <p>
-<img width="50%" src="https://salesman.com/wp-content/uploads/2015/08/smash-phone.gif">
+<img width="75%" src="https://salesman.com/wp-content/uploads/2015/08/smash-phone.gif">
 </p>
 
 ## Introduction

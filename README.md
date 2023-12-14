@@ -1,6 +1,8 @@
 # Fix My Code Challenge
 
-![](https://media1.tenor.com/m/tt7KnU6c2-4AAAAd/bug-fix-bug.gif)
+<p>
+<img width="75%" src="https://salesman.com/wp-content/uploads/2015/08/smash-phone.gif">
+</p>
 
 `Fix my code` is a project where we dive into an existing code base and correct it. This optional project provided an excellent opportunity for me to improve my debugging skills by fixing and enhancing existing code bases.
 
