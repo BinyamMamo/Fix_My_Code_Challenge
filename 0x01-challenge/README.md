@@ -1,7 +1,7 @@
 # Fix My Code Challenge - Challenge 0x01
 
 <p>
-<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8">
+<img src="https://salesman.com/wp-content/uploads/2015/08/smash-phone.gif">
 </p>
 
 ## Introduction
